@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\falau\\source\\repos\\Random stuff\\Bank Account\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBC3BB0-DA23-427E-BC04-0B8C27207492}|Bank Account.csproj|c:\\users\\falau\\source\\repos\\random stuff\\bank account\\debitaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EBC3BB0-DA23-427E-BC04-0B8C27207492}|Bank Account.csproj|solutionrelative:debitaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBC3BB0-DA23-427E-BC04-0B8C27207492}|Bank Account.csproj|c:\\users\\falau\\source\\repos\\random stuff\\bank account\\creditaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EBC3BB0-DA23-427E-BC04-0B8C27207492}|Bank Account.csproj|solutionrelative:creditaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBC3BB0-DA23-427E-BC04-0B8C27207492}|Bank Account.csproj|c:\\users\\falau\\source\\repos\\random stuff\\bank account\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EBC3BB0-DA23-427E-BC04-0B8C27207492}|Bank Account.csproj|solutionrelative:bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBC3BB0-DA23-427E-BC04-0B8C27207492}|Bank Account.csproj|c:\\users\\falau\\source\\repos\\random stuff\\bank account\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EBC3BB0-DA23-427E-BC04-0B8C27207492}|Bank Account.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DebitAccount.cs",
+              "DocumentMoniker": "C:\\Users\\falau\\source\\repos\\Random stuff\\Bank Account\\DebitAccount.cs",
+              "RelativeDocumentMoniker": "DebitAccount.cs",
+              "ToolTip": "C:\\Users\\falau\\source\\repos\\Random stuff\\Bank Account\\DebitAccount.cs",
+              "RelativeToolTip": "DebitAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T18:38:29.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreditAccount.cs",
+              "DocumentMoniker": "C:\\Users\\falau\\source\\repos\\Random stuff\\Bank Account\\CreditAccount.cs",
+              "RelativeDocumentMoniker": "CreditAccount.cs",
+              "ToolTip": "C:\\Users\\falau\\source\\repos\\Random stuff\\Bank Account\\CreditAccount.cs",
+              "RelativeToolTip": "CreditAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T18:22:13.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\falau\\source\\repos\\Random stuff\\Bank Account\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankAccount.cs",
+              "ToolTip": "C:\\Users\\falau\\source\\repos\\Random stuff\\Bank Account\\BankAccount.cs",
+              "RelativeToolTip": "BankAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T18:05:47.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\falau\\source\\repos\\Random stuff\\Bank Account\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\falau\\source\\repos\\Random stuff\\Bank Account\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T18:05:15.754Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
